@@ -171,3 +171,5 @@ void Initial(int * Actual_Num,contact *contacts,FILE * DataBase)
     }
     fclose(DataBase);
 }
+
+
